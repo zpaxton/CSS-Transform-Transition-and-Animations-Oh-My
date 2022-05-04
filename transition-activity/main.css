@@ -20,6 +20,8 @@ button {
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  color:ghostwhite;
+  transition: 1s;
 }
 
 button:hover {
